@@ -1,8 +1,8 @@
 {
   "kernel": {
-    "name": "QuantumKiller-N ALMK-DTC",
+    "name": "QuantumKiller-N almk-clang",
     "version": "4.14.214-QuantumKiller-N",
-    "link": "https://shared.zyc-files.workers.dev/0:/Begonia/STABLE/QuantumKiller/01-11-2021/N/[DTC][AOSP-CFW][ALMK][Begonia]4.14.214-QuantumKiller-N-223d13c9cc2e.zip",
+    "link": "https://shared.zyc-files.workers.dev/0:/Begonia/STABLE/QuantumKiller/01-11-2021/N/[Clang][AOSP-CFW][ALMK][Begonia]4.14.214-QuantumKiller-N-223d13c9cc2e.zip",
     "changelog_url": "https://raw.githubusercontent.com/ZyCromerZ/begonia/changelogs/begonia.MD",
     "sha1": ""
   },
